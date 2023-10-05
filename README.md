@@ -1,3 +1,3 @@
 # MostafaNabieh
 
-https://mostafanabiehmourad.github.io/MostafaNabieh/
+https://mostafanabiehmourad.github.io/
